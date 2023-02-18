@@ -32,5 +32,5 @@ TODO: Add long description of the pod here.
   
   s.vendored_frameworks = "CIUDPSocket/CIUDPSocketSDK.framework"
     
-  s.dependency 'CocoaAsyncSocket', '7.6.6'
+  s.dependency 'CocoaAsyncSocket', '7.6.5'
 end

@@ -1,0 +1,6 @@
+framework module CIUDPSocket {
+  umbrella header "CIUDPSocket.h"
+
+  export *
+  module * { export * }
+}

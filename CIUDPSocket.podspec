@@ -1,5 +1,5 @@
 #
-# Be sure to run `pod lib lint CIUDPSocketSDK.podspec' to ensure this is a
+# Be sure to run `pod lib lint CIUDPSocket.podspec' to ensure this is a
 # valid spec before submitting.
 #
 # Any lines starting with a # are optional, but their use is encouraged
@@ -7,9 +7,9 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'CIUDPSocketSDK'
-  s.version          = '0.1.9'
-  s.summary          = 'CIUDPSocketSDK'
+  s.name             = 'CIUDPSocket'
+  s.version          = '0.1.10'
+  s.summary          = 'CIUDPSocket'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -32,7 +32,7 @@ TODO: Add long description of the pod here.
   s.pod_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   s.user_target_xcconfig = { 'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64' }
   
-  s.vendored_frameworks = "CIUDPSocket/CIUDPSocketSDK.framework"
+  s.vendored_frameworks = "CIUDPSocket/CIUDPSocket.framework"
     
   s.dependency 'CocoaAsyncSocket', '7.6.5'
 end

@@ -4,71 +4,56 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/CIUDPSocketConst.h</key>
+		<key>Headers/CIUDPSocket.h</key>
 		<data>
-		LXQXp9ScuouJjnNf+GURG2dXYsQ=
-		</data>
-		<key>Headers/CIUDPSocketSDK.h</key>
-		<data>
-		63MdauFc/3MQSGAuxhcDv8GPAfk=
+		LGBRglub5k3RYewQlIZOWa+aqs4=
 		</data>
 		<key>Headers/CIUDPSocketTool.h</key>
 		<data>
-		mMqt+qc0xuvz3tNvgnJr/bRebwY=
+		UIY8emDbnUVWwfkRd+yWL4xwdk4=
 		</data>
 		<key>Info.plist</key>
 		<data>
-		JQ3blOfoyFVej1X4yjTCXsvQqEE=
+		7qHT6y0d3Z+SDt+g2LUnFDbw+6c=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		A5yvVvtvWkcs3nvb1E2T0CXjnbY=
+		vM89RjFoVRSk5ZaZT/ybx4NbesE=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/CIUDPSocketConst.h</key>
+		<key>Headers/CIUDPSocket.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			LXQXp9ScuouJjnNf+GURG2dXYsQ=
+			LGBRglub5k3RYewQlIZOWa+aqs4=
 			</data>
 			<key>hash2</key>
 			<data>
-			ztporyggkZRdkTKs/01aoMAEKvcfTMtx717YbSPUiyk=
-			</data>
-		</dict>
-		<key>Headers/CIUDPSocketSDK.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			63MdauFc/3MQSGAuxhcDv8GPAfk=
-			</data>
-			<key>hash2</key>
-			<data>
-			CP8b6cu4L6Szwqx1acX5a517sz7cVxomlRPEU6I1f0Y=
+			oANksyt2l+SR5pKFUYBamfGZywWI5kjYrgJHKs92la0=
 			</data>
 		</dict>
 		<key>Headers/CIUDPSocketTool.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			mMqt+qc0xuvz3tNvgnJr/bRebwY=
+			UIY8emDbnUVWwfkRd+yWL4xwdk4=
 			</data>
 			<key>hash2</key>
 			<data>
-			PMxaOCv7KOvR79iPxES9o6UAx/mvTdT9Juca5c/TYNM=
+			QKoLn8HNe6bv3cEUlqFEgPVb2ezmn6NzInbCYMSVNJo=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			A5yvVvtvWkcs3nvb1E2T0CXjnbY=
+			vM89RjFoVRSk5ZaZT/ybx4NbesE=
 			</data>
 			<key>hash2</key>
 			<data>
-			8j1+8UDaydOorkoRIdQbmQO4VRVu5MVsgEv/cggFTqQ=
+			Kz9xJLny9vB607G6WgGUWW9CydDZYRIvJaYuWsEWwTk=
 			</data>
 		</dict>
 	</dict>
